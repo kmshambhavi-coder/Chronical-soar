@@ -1,5 +1,6 @@
 # Playbook_1
-This is first playbook for GitSync
+This is first playbook for GitSync on the shared instances and
+it is working
 
 
 
