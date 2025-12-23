@@ -8,7 +8,7 @@
     "creator": "6d7110f6-33a0-4a48-8d24-386f7f6d6b7e",
     "modifiedBy": "6d7110f6-33a0-4a48-8d24-386f7f6d6b7e",
     "priority": 2,
-    "description": "",
+    "description": "This is first playbook for GitSync",
     "environments": [
         "Default Environment"
     ],
@@ -16,7 +16,7 @@
     "categoryId": 1,
     "originalPlaybookIdentifier": "71fce05d-754c-464d-a259-1123c93ac617",
     "creationTimeUnixTimeInMs": 1766485524081,
-    "modificationTimeUnixTimeInMs": 1766485524081,
+    "modificationTimeUnixTimeInMs": 1766488077149,
     "trigger": {
         "id": 0,
         "identifier": "1f0c7b4e-6d31-4d00-a5b4-1ec74555dec1",
@@ -176,8 +176,8 @@
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1766485524081,
-            "modificationTimeUnixTimeInMs": 1766485524081,
+            "creationTimeUnixTimeInMs": 1766488077085,
+            "modificationTimeUnixTimeInMs": 1766488077149,
             "additionalProperties": {}
         }
     ],
