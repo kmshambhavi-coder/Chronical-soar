@@ -1,25 +1,25 @@
 {
     "id": 0,
-    "identifier": "71fce05d-754c-464d-a259-1123c93ac617",
+    "identifier": "c09f9b3d-9ecf-4de2-8ebc-35fd6525bd90",
     "version": "1",
-    "isEnabled": true,
+    "isEnabled": false,
     "isDebugMode": false,
-    "name": "Playbook_1",
+    "name": "New Playbook",
     "creator": "6d7110f6-33a0-4a48-8d24-386f7f6d6b7e",
     "modifiedBy": "6d7110f6-33a0-4a48-8d24-386f7f6d6b7e",
     "priority": 2,
-    "description": "This is first playbook for GitSync on the shared instances and\nit is working",
+    "description": "",
     "environments": [
         "Default Environment"
     ],
     "categoryName": "Default",
     "categoryId": 1,
-    "originalPlaybookIdentifier": "71fce05d-754c-464d-a259-1123c93ac617",
-    "creationTimeUnixTimeInMs": 1766485524081,
-    "modificationTimeUnixTimeInMs": 1766488269235,
+    "originalPlaybookIdentifier": "c09f9b3d-9ecf-4de2-8ebc-35fd6525bd90",
+    "creationTimeUnixTimeInMs": 1766482341199,
+    "modificationTimeUnixTimeInMs": 1766483261364,
     "trigger": {
         "id": 0,
-        "identifier": "1f0c7b4e-6d31-4d00-a5b4-1ec74555dec1",
+        "identifier": "66e5ba98-4256-4558-b8e1-094d691a5086",
         "type": 8,
         "logicalOperator": 0,
         "conditions": [
@@ -33,8 +33,8 @@
     "steps": [
         {
             "parallelActions": [],
-            "identifier": "c1abde5a-7e2b-483a-9b6a-f0f125c9e329",
-            "originalStepIdentifier": "c1abde5a-7e2b-483a-9b6a-f0f125c9e329",
+            "identifier": "1af40ead-632c-4e47-9c28-b654d4c50c9a",
+            "originalStepIdentifier": "1af40ead-632c-4e47-9c28-b654d4c50c9a",
             "isAutomatic": true,
             "isSkippable": false,
             "instanceName": "GitSync_Ping_1",
@@ -171,12 +171,12 @@
             "isDebugMockData": false,
             "debugData": null,
             "parentStepContainerId": null,
-            "workflowIdentifier": "71fce05d-754c-464d-a259-1123c93ac617",
+            "workflowIdentifier": "c09f9b3d-9ecf-4de2-8ebc-35fd6525bd90",
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1766488269182,
-            "modificationTimeUnixTimeInMs": 1766488269235,
+            "creationTimeUnixTimeInMs": 1766483261299,
+            "modificationTimeUnixTimeInMs": 1766483261364,
             "additionalProperties": {}
         }
     ],

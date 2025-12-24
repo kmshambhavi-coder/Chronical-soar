@@ -5,7 +5,9 @@
         "Mappings": {},
         "Visual Family": {},
         "Playbook": {
-            "Playbook_1": "Jinja"
+            "Playbook_1": "Jinja",
+            "New Playbook": "Jinja",
+            "Playbook_2": "Jinja"
         },
         "Connector": {},
         "Job": {}
