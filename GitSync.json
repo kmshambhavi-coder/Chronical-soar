@@ -7,7 +7,8 @@
         "Playbook": {
             "Playbook_1": "Jinja",
             "New Playbook": "Jinja",
-            "Playbook_2": "Jinja"
+            "Playbook_2": "Jinja",
+            "GitHub_Playbook": "Jinja"
         },
         "Connector": {},
         "Job": {}
