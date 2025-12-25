@@ -1,25 +1,25 @@
 {
     "id": 0,
-    "identifier": "0f63ba6e-6ee1-4ede-8ac3-ad80b1286d14",
+    "identifier": "ad8642cd-4ffa-4cf3-beb9-4a067310835a",
     "version": "1",
     "isEnabled": true,
     "isDebugMode": false,
-    "name": "GitHub_Playbook",
+    "name": "BitBucket_playbook",
     "creator": "6d7110f6-33a0-4a48-8d24-386f7f6d6b7e",
     "modifiedBy": "6d7110f6-33a0-4a48-8d24-386f7f6d6b7e",
     "priority": 2,
-    "description": "This is a test playbook to check if it is working fine with space and \nWhat if it contains a line break or enter",
+    "description": "This is a test playbook to ensure if we are putting enter and \nWhat if it contains a line break",
     "environments": [
         "Default Environment"
     ],
     "categoryName": "Default",
     "categoryId": 1,
-    "originalPlaybookIdentifier": "0f63ba6e-6ee1-4ede-8ac3-ad80b1286d14",
-    "creationTimeUnixTimeInMs": 1766649723555,
-    "modificationTimeUnixTimeInMs": 1766649763507,
+    "originalPlaybookIdentifier": "ad8642cd-4ffa-4cf3-beb9-4a067310835a",
+    "creationTimeUnixTimeInMs": 1766648001429,
+    "modificationTimeUnixTimeInMs": 1766648001429,
     "trigger": {
         "id": 0,
-        "identifier": "3aa51ba2-7f01-4fd7-88fd-58ea218a1744",
+        "identifier": "fde3ce60-aa3e-415b-855f-4919e8d88f7f",
         "type": 8,
         "logicalOperator": 0,
         "conditions": [
@@ -33,8 +33,8 @@
     "steps": [
         {
             "parallelActions": [],
-            "identifier": "7bf7f000-0b89-4ce7-a7ee-d1d415dc32db",
-            "originalStepIdentifier": "7bf7f000-0b89-4ce7-a7ee-d1d415dc32db",
+            "identifier": "a5b52ecb-3340-477d-b2bb-92c36b2b3e40",
+            "originalStepIdentifier": "a5b52ecb-3340-477d-b2bb-92c36b2b3e40",
             "isAutomatic": true,
             "isSkippable": false,
             "instanceName": "GitSync_Ping_1",
@@ -102,15 +102,14 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "04c93860-c0fc-4497-8f66-390a6906e126",
+                    "value": "d8a8f601-0b8e-4bec-a860-4f41002b2cff",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
                     "id": 0,
                     "creationTimeUnixTimeInMs": 0,
                     "modificationTimeUnixTimeInMs": 0,
-                    "additionalProperties": {},
-                    "InstanceDisplayName": "GitHub_instance"
+                    "additionalProperties": {}
                 },
                 {
                     "name": "MessageToAssignee",
@@ -172,12 +171,12 @@
             "isDebugMockData": false,
             "debugData": null,
             "parentStepContainerId": null,
-            "workflowIdentifier": "0f63ba6e-6ee1-4ede-8ac3-ad80b1286d14",
+            "workflowIdentifier": "ad8642cd-4ffa-4cf3-beb9-4a067310835a",
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1766649763445,
-            "modificationTimeUnixTimeInMs": 1766649763507,
+            "creationTimeUnixTimeInMs": 1766648001429,
+            "modificationTimeUnixTimeInMs": 1766648001429,
             "additionalProperties": {}
         }
     ],
