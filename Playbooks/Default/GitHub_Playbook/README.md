@@ -1,6 +1,6 @@
 # GitHub_Playbook
 This is first playbook for GitSync on the shared instances and
-it is working
+What if it contains a line break
 
 
 

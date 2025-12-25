@@ -2,7 +2,7 @@
 |Name|Folder|Description|
 |----|------|-----------|
 |GitHub_Playbook|Default|This is first playbook for GitSync on the shared instances and
-it is working|
+What if it contains a line break|
 |New Playbook|Default||
 |Playbook_1|Default|This is first playbook for GitSync on the shared instances and
 it is working|
