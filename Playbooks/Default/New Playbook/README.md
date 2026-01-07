@@ -3,7 +3,7 @@
 
 
 
-**Enabled:** False
+**Enabled:** True
 
 **Version:** 1
 
@@ -28,6 +28,6 @@
 ### Involved Steps (Unordered)
 |Step Name|Description|Integration|Original Action|
 |---------|-----------|-----------|---------------|
-|GitSync_Ping_1|Test connectivity to GitSync|GitSync|Ping|
+|MicrosoftDefenderATP_Execute Live Response Command_1|Use "Execute Live Response Command" action to execute a live response command in Microsoft Defender for Endpoint. Supported Entities: IP Address, Hostname. Note: Action is running as async, please adjust script timeout value in Google SecOps IDE for action, as needed.|MicrosoftDefenderATP|Execute Live Response Command|
 
 Jinja
