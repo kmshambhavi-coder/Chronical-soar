@@ -125,8 +125,7 @@
                     "id": 0,
                     "creationTimeUnixTimeInMs": 0,
                     "modificationTimeUnixTimeInMs": 0,
-                    "additionalProperties": {},
-                    "InstanceDisplayName": "Siemplify_1"
+                    "additionalProperties": {}
                 },
                 {
                     "name": "MessageToAssignee",
