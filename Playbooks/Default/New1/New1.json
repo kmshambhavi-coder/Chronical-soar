@@ -17,7 +17,7 @@
     "categoryId": 1,
     "originalPlaybookIdentifier": "c627f823-5448-4e99-846b-4d5a61dd220f",
     "creationTimeUnixTimeInMs": 1776257328393,
-    "modificationTimeUnixTimeInMs": 1776257376645,
+    "modificationTimeUnixTimeInMs": 1776258072475,
     "trigger": {
         "id": 0,
         "identifier": "cc51ace4-d2e4-41ea-ae34-c15e440efdfe",
@@ -118,14 +118,15 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "6150691a-fcd8-42bc-9fcb-3e4d87035a89",
+                    "value": "4bd2705b-a4a4-4a64-ae62-21846ab66bf7",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
                     "id": 0,
                     "creationTimeUnixTimeInMs": 0,
                     "modificationTimeUnixTimeInMs": 0,
-                    "additionalProperties": {}
+                    "additionalProperties": {},
+                    "InstanceDisplayName": "Siemplify_1"
                 },
                 {
                     "name": "MessageToAssignee",
@@ -214,8 +215,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1776257376596,
-            "modificationTimeUnixTimeInMs": 1776257376645,
+            "creationTimeUnixTimeInMs": 1776258072428,
+            "modificationTimeUnixTimeInMs": 1776258072475,
             "additionalProperties": {}
         }
     ],
