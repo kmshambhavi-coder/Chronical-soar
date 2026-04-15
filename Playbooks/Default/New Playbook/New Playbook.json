@@ -1,34 +1,39 @@
 {
     "id": 0,
-    "identifier": "9b98b38e-2c71-4813-a314-611218bc0a1a",
+    "identifier": "4cffb7ff-bcbe-469d-a8e9-21c2ff7faae0",
     "version": "1",
     "isEnabled": true,
     "isDebugMode": false,
     "name": "New Playbook",
-    "creator": "81abfb1d-a223-4145-a549-c1b7024cbf4f",
-    "modifiedBy": "81abfb1d-a223-4145-a549-c1b7024cbf4f",
+    "creator": "e213e16e-dab1-4789-90ae-968dd10ac768",
+    "modifiedBy": "Siemplify automation",
     "priority": 2,
     "description": "",
+    "executionScope": 1,
     "environments": [
         "Default Environment"
     ],
     "categoryName": "Default",
     "categoryId": 1,
-    "originalPlaybookIdentifier": "9b98b38e-2c71-4813-a314-611218bc0a1a",
+    "originalPlaybookIdentifier": "4cffb7ff-bcbe-469d-a8e9-21c2ff7faae0",
     "creationTimeUnixTimeInMs": 1767783246088,
-    "modificationTimeUnixTimeInMs": 1767783246088,
+    "modificationTimeUnixTimeInMs": 1776256795043,
     "trigger": {
         "id": 0,
-        "identifier": "1a3bb09b-2210-4fe7-90ba-e8efc84352e4",
+        "identifier": "98cd31ce-cd95-4002-8f3b-ef7b014f85c3",
         "type": 8,
         "logicalOperator": 0,
         "conditions": [
             {
                 "fieldName": "",
                 "value": "",
-                "matchType": 0
+                "matchType": 0,
+                "customOperatorName": null
             }
-        ]
+        ],
+        "reactionLogicalOperator": 1,
+        "reactionConditions": [],
+        "executionMode": 0
     },
     "steps": [
         {
@@ -131,8 +136,7 @@
                     "id": 0,
                     "creationTimeUnixTimeInMs": 0,
                     "modificationTimeUnixTimeInMs": 0,
-                    "additionalProperties": {},
-                    "InstanceDisplayName": "System Default Instance"
+                    "additionalProperties": {}
                 },
                 {
                     "name": "MessageToAssignee",
@@ -194,12 +198,13 @@
             "isDebugMockData": false,
             "debugData": null,
             "parentStepContainerId": null,
-            "workflowIdentifier": "9b98b38e-2c71-4813-a314-611218bc0a1a",
+            "workflowIdentifier": "4cffb7ff-bcbe-469d-a8e9-21c2ff7faae0",
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
+            "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1767783246088,
-            "modificationTimeUnixTimeInMs": 1767783246088,
+            "creationTimeUnixTimeInMs": 1776256795043,
+            "modificationTimeUnixTimeInMs": 1776256795043,
             "additionalProperties": {}
         }
     ],
@@ -219,7 +224,7 @@
             "identifier": "cd15843c-b92f-4c7e-bc62-35853298f406",
             "name": "ATP Def",
             "creator": null,
-            "playbookIdentifier": "9b98b38e-2c71-4813-a314-611218bc0a1a",
+            "playbookIdentifier": "4cffb7ff-bcbe-469d-a8e9-21c2ff7faae0",
             "type": 0,
             "widgets": [
                 {
@@ -283,7 +288,7 @@
             "roles": [
                 1
             ],
-            "creationTimeUnixTimeInMs": 1767783246088
+            "creationTimeUnixTimeInMs": 1776256795043
         }
     ],
     "creationSource": 1
