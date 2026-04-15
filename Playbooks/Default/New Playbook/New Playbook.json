@@ -1,6 +1,6 @@
 {
     "id": 0,
-    "identifier": "4cffb7ff-bcbe-469d-a8e9-21c2ff7faae0",
+    "identifier": "92d66669-8138-40bf-9424-3aad035effc8",
     "version": "1",
     "isEnabled": true,
     "isDebugMode": false,
@@ -15,12 +15,12 @@
     ],
     "categoryName": "Default",
     "categoryId": 1,
-    "originalPlaybookIdentifier": "4cffb7ff-bcbe-469d-a8e9-21c2ff7faae0",
-    "creationTimeUnixTimeInMs": 1767783246088,
-    "modificationTimeUnixTimeInMs": 1776256795043,
+    "originalPlaybookIdentifier": "92d66669-8138-40bf-9424-3aad035effc8",
+    "creationTimeUnixTimeInMs": 1776257384146,
+    "modificationTimeUnixTimeInMs": 1776257384146,
     "trigger": {
         "id": 0,
-        "identifier": "98cd31ce-cd95-4002-8f3b-ef7b014f85c3",
+        "identifier": "4c607f68-b7d9-45f6-8d54-943878e89562",
         "type": 8,
         "logicalOperator": 0,
         "conditions": [
@@ -198,13 +198,13 @@
             "isDebugMockData": false,
             "debugData": null,
             "parentStepContainerId": null,
-            "workflowIdentifier": "4cffb7ff-bcbe-469d-a8e9-21c2ff7faae0",
+            "workflowIdentifier": "92d66669-8138-40bf-9424-3aad035effc8",
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1776256795043,
-            "modificationTimeUnixTimeInMs": 1776256795043,
+            "creationTimeUnixTimeInMs": 1776257384146,
+            "modificationTimeUnixTimeInMs": 1776257384146,
             "additionalProperties": {}
         }
     ],
@@ -221,22 +221,22 @@
     "overviewTemplates": [
         {
             "id": 3,
-            "identifier": "cd15843c-b92f-4c7e-bc62-35853298f406",
+            "identifier": "51b7735b-35ea-4a10-946a-acf4004b7f4a",
             "name": "ATP Def",
             "creator": null,
-            "playbookIdentifier": "4cffb7ff-bcbe-469d-a8e9-21c2ff7faae0",
+            "playbookIdentifier": "92d66669-8138-40bf-9424-3aad035effc8",
             "type": 0,
             "widgets": [
                 {
                     "metadata": {
                         "id": 18,
-                        "identifier": "a655bf04-d634-4ff2-9091-bbb544fb888d",
+                        "identifier": "a915f9eb-c25d-43af-a39e-0f7357a16e2d",
                         "title": "MicrosoftDefenderATP_Execute Live Response Command_1",
                         "width": 1,
                         "order": 1,
                         "description": "This widget highlights the most important items in Execute Live Response Command",
                         "type": 3,
-                        "templateIdentifier": "cd15843c-b92f-4c7e-bc62-35853298f406",
+                        "templateIdentifier": "51b7735b-35ea-4a10-946a-acf4004b7f4a",
                         "predefinedWidgetTemplateIdentifier": "0b79fd60-2e0c-45cd-b982-7e5eb2b30042",
                         "actionIdentifier": null,
                         "stepIdentifier": "6eaa9053-50d6-4f56-8604-06fb4799cabe",
@@ -288,7 +288,7 @@
             "roles": [
                 1
             ],
-            "creationTimeUnixTimeInMs": 1776256795043
+            "creationTimeUnixTimeInMs": 1776257384146
         }
     ],
     "creationSource": 1
