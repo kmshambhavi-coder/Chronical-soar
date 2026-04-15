@@ -17,7 +17,7 @@
     "categoryId": 1,
     "originalPlaybookIdentifier": "0d6a3c5d-7f78-4336-bcef-af4ead154794",
     "creationTimeUnixTimeInMs": 1776248526969,
-    "modificationTimeUnixTimeInMs": 1776248539046,
+    "modificationTimeUnixTimeInMs": 1776255835880,
     "trigger": {
         "id": 0,
         "identifier": "5c007d3c-f4a9-4e2a-aacd-d154ff4bb060",
@@ -118,7 +118,7 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "759c7491-674f-4523-be9d-1e9b7750bdc0",
+                    "value": "892df469-3f61-424b-92ca-dbb24a1f065e",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -215,8 +215,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1776248538949,
-            "modificationTimeUnixTimeInMs": 1776248539046,
+            "creationTimeUnixTimeInMs": 1776255835835,
+            "modificationTimeUnixTimeInMs": 1776255835880,
             "additionalProperties": {}
         }
     ],
