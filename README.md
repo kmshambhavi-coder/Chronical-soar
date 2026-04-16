@@ -7,6 +7,7 @@
 |Comment Instances||
 |GitHub_Playbook|This is a test playbook to check if it is working fine with space and What if it contains a line break or enter|
 |GitSyncPlaybook|pull Data|
+|MyPlay||
 |New Playbook||
 |New1||
 |Playbook_1|This is first playbook for GitSync on the shared instances andit is working|
