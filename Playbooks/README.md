@@ -9,6 +9,7 @@
 |GitSync|Default||
 |GitSyncPlaybook|Default|pull Data |
 |GitSync_MultiStep_Repro|Default||
+|GitSync_Parallel_Repro|Default||
 |MyPlay|Default||
 |New Playbook|Default||
 |New1|Default||

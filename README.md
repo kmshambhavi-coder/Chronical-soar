@@ -17,6 +17,7 @@
 |GitSync||
 |GitSyncPlaybook|pull Data|
 |GitSync_MultiStep_Repro||
+|GitSync_Parallel_Repro||
 |MyPlay||
 |New Playbook||
 |New1||
