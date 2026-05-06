@@ -7,7 +7,7 @@
     "name": "GitSync_MultiStep_Repro",
     "creator": "99dd58cd-651d-4501-888b-2389eeded571",
     "modifiedBy": "99dd58cd-651d-4501-888b-2389eeded571",
-    "priority": 2,
+    "priority": 1,
     "description": "",
     "executionScope": 1,
     "environments": [
@@ -17,7 +17,7 @@
     "categoryId": 1,
     "originalPlaybookIdentifier": "ab7cf8b4-f4c5-4995-afb6-2f8a74e7698a",
     "creationTimeUnixTimeInMs": 1777997410321,
-    "modificationTimeUnixTimeInMs": 1778068276735,
+    "modificationTimeUnixTimeInMs": 1778069099356,
     "trigger": {
         "id": 0,
         "identifier": "716768c0-b663-4241-997d-b8f369870399",
@@ -215,8 +215,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1778068276685,
-            "modificationTimeUnixTimeInMs": 1778068276735,
+            "creationTimeUnixTimeInMs": 1778069099304,
+            "modificationTimeUnixTimeInMs": 1778069099356,
             "additionalProperties": {}
         },
         {
@@ -398,8 +398,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1778068276685,
-            "modificationTimeUnixTimeInMs": 1778068276735,
+            "creationTimeUnixTimeInMs": 1778069099304,
+            "modificationTimeUnixTimeInMs": 1778069099356,
             "additionalProperties": {}
         },
         {
@@ -581,8 +581,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1778068276685,
-            "modificationTimeUnixTimeInMs": 1778068276735,
+            "creationTimeUnixTimeInMs": 1778069099304,
+            "modificationTimeUnixTimeInMs": 1778069099356,
             "additionalProperties": {}
         }
     ],

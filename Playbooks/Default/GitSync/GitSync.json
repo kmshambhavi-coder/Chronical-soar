@@ -2,7 +2,7 @@
     "id": 0,
     "identifier": "9d470d3b-4ca6-492c-b786-ce8caf5f577d",
     "version": "1",
-    "isEnabled": true,
+    "isEnabled": false,
     "isDebugMode": false,
     "name": "GitSync",
     "creator": "99dd58cd-651d-4501-888b-2389eeded571",
@@ -17,7 +17,7 @@
     "categoryId": 1,
     "originalPlaybookIdentifier": "9d470d3b-4ca6-492c-b786-ce8caf5f577d",
     "creationTimeUnixTimeInMs": 1777997379743,
-    "modificationTimeUnixTimeInMs": 1777997379743,
+    "modificationTimeUnixTimeInMs": 1778068979734,
     "trigger": {
         "id": 0,
         "identifier": "f9245183-9b01-46d2-aa5f-0ac4b4abe0b2",
@@ -215,8 +215,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1777997379743,
-            "modificationTimeUnixTimeInMs": 1777997379743,
+            "creationTimeUnixTimeInMs": 1778068979680,
+            "modificationTimeUnixTimeInMs": 1778068979734,
             "additionalProperties": {}
         }
     ],
@@ -224,8 +224,8 @@
     "templateName": null,
     "playbookType": 0,
     "debugData": {
-        "debugBaseAlertId": null,
-        "debugAlertId": null
+        "debugBaseAlertId": "",
+        "debugAlertId": ""
     },
     "entityAccessLevel": 2,
     "defaultAccessLevel": 2,
