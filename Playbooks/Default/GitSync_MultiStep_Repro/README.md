@@ -5,7 +5,7 @@
 
 **Enabled:** True
 
-**Version:** 1
+**Version:** 0
 
 **Type:** Playbook
 
@@ -28,7 +28,7 @@
 ### Involved Steps (Unordered)
 |Step Name|Description|Integration|Original Action|
 |---------|-----------|-----------|---------------|
-|GitSync_Ping_1|Test connectivity to GitSync|GitSync|Ping|
 |GitSync_Ping_2|Test connectivity to GitSync|GitSync|Ping|
 |GitSync_Ping_3|Test connectivity to GitSync|GitSync|Ping|
+|GitSync_Ping_1|Test connectivity to GitSync|GitSync|Ping|
 
