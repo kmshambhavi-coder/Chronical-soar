@@ -22,6 +22,7 @@ Is this Alert the first in the Case?  Is it the first in the Case of this Alert 
 ### Involved Steps (Unordered)
 |Step Name|Description|Integration|Original Action|
 |---------|-----------|-----------|---------------|
+|GitSync_Ping_1|Test connectivity to GitSync|GitSync|Ping|
 |Set OtherAlertsExist|The action sets a key and value in a specific context (alert or case)|Tools|Set Context Value|
 |Get OtherAlertsExist|Check if this Block has already run in the Case.|Tools|Get Context Value|
 |Set RuleGenerator|Store the Alert type in the Case Context for other Block runs to find.|Tools|Set Context Value|
