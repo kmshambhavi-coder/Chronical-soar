@@ -31,7 +31,6 @@
 |GitSync_Ping_6|Test connectivity to GitSync|GitSync|Ping|
 |GitSync_Ping_1|Test connectivity to GitSync|GitSync|Ping|
 |GitSync_Ping_2|Test connectivity to GitSync|GitSync|Ping|
-|GitSync_Ping_5|Test connectivity to GitSync|GitSync|Ping|
 |GitSync_Ping_3|Test connectivity to GitSync|GitSync|Ping|
 |GitSync_Ping_4|Test connectivity to GitSync|GitSync|Ping|
 
