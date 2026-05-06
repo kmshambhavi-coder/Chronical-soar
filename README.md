@@ -9,6 +9,7 @@
 ## Playbooks
 |Name|Description|
 |----|-----------|
+|Duplicate Alert Check|Is this Alert the first in the Case?  Is it the first in the Case of this Alert type?  Or is it a duplication.  Example usage: this Block can be used when Alert Grouping is causing multiple ITSM tickets for the same case. Different paths output string that can be used in the parent playbook to check the verdict.|
 |BitBucket_playbook|This is a test playbook to ensure if we are putting enter and What if it contains a line break|
 |CaseComm||
 |Comment Instances||
