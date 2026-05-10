@@ -24,10 +24,12 @@ Is this Alert the first in the Case?  Is it the first in the Case of this Alert 
 |---------|-----------|-----------|---------------|
 |Set OtherAlertsExist|The action sets a key and value in a specific context (alert or case)|Tools|Set Context Value|
 |Get OtherAlertsExist|Check if this Block has already run in the Case.|Tools|Get Context Value|
+|GitSync_Ping_1|Test connectivity to GitSync|GitSync|Ping|
 |Set RuleGenerator|Store the Alert type in the Case Context for other Block runs to find.|Tools|Set Context Value|
 |FirstOfThisType|Consider building out logic here to update the existing ITSM ticket, e,g, "Add comment: Additional Alerts observed of new type"|Siemplify|Case Comment|
 |Set RuleGenerator2|The action sets a key and value in a specific context (alert or case)|Tools|Set Context Value|
-|AlertTypeExists|Consider building out logic here to update the existing ITSM ticket, e,g, "Add comment: Additional similar Alerts observed"|Siemplify|Case Comment|
 |Get RuleGenerator|Check if this RuleGenerator value has been seen in the case.|Tools|Get Context Value|
+|GitSync_Ping_2|Test connectivity to GitSync|GitSync|Ping|
+|AlertTypeExists|Consider building out logic here to update the existing ITSM ticket, e,g, "Add comment: Additional similar Alerts observed"|Siemplify|Case Comment|
 |FirstOverall|This is the first Alert in the Case, perform all steps as normal. |Siemplify|Case Comment|
 
