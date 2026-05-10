@@ -10,6 +10,7 @@
 |GitSyncPlaybook|Default|pull Data |
 |GitSync_MultiStep_Repro|Default||
 |GitSync_Parallel_Repro|Default||
+|GitSync_block_pb|Default|An embedded workflow that can receive inputs and return an output.|
 |MyPlay|Default||
 |New Playbook|Default||
 |New1|Default||
