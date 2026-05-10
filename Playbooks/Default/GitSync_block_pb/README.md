@@ -29,4 +29,5 @@ An embedded workflow that can receive inputs and return an output.
 |GitSync_Ping_2|Test connectivity to GitSync|GitSync|Ping|
 |GitSync_Ping_4|Test connectivity to GitSync|GitSync|Ping|
 |GitSync_Ping_5|Test connectivity to GitSync|GitSync|Ping|
+|GitSync_Ping_7|Test connectivity to GitSync|GitSync|Ping|
 
