@@ -17,7 +17,7 @@
     "categoryId": 1,
     "originalPlaybookIdentifier": "64c62fe4-d6fd-4673-9bbb-e43b521c1775",
     "creationTimeUnixTimeInMs": 1778432527962,
-    "modificationTimeUnixTimeInMs": 1778433240402,
+    "modificationTimeUnixTimeInMs": 1778490906319,
     "trigger": {
         "id": 0,
         "identifier": "e7108df9-e76d-4c6e-905d-ec26a5e7a219",
@@ -159,8 +159,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1778433240311,
-            "modificationTimeUnixTimeInMs": 1778433240402,
+            "creationTimeUnixTimeInMs": 1778490906237,
+            "modificationTimeUnixTimeInMs": 1778490906319,
             "additionalProperties": {}
         },
         {
@@ -342,8 +342,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1778433240311,
-            "modificationTimeUnixTimeInMs": 1778433240402,
+            "creationTimeUnixTimeInMs": 1778490906237,
+            "modificationTimeUnixTimeInMs": 1778490906319,
             "additionalProperties": {}
         },
         {
@@ -525,8 +525,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1778433240311,
-            "modificationTimeUnixTimeInMs": 1778433240402,
+            "creationTimeUnixTimeInMs": 1778490906237,
+            "modificationTimeUnixTimeInMs": 1778490906319,
             "additionalProperties": {}
         },
         {
@@ -652,8 +652,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1778433240311,
-            "modificationTimeUnixTimeInMs": 1778433240402,
+            "creationTimeUnixTimeInMs": 1778490906237,
+            "modificationTimeUnixTimeInMs": 1778490906319,
             "additionalProperties": {}
         },
         {
@@ -836,8 +836,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1778433240311,
-                    "modificationTimeUnixTimeInMs": 1778433240402,
+                    "creationTimeUnixTimeInMs": 1778490906237,
+                    "modificationTimeUnixTimeInMs": 1778490906319,
                     "additionalProperties": {}
                 },
                 {
@@ -1018,8 +1018,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1778433240311,
-                    "modificationTimeUnixTimeInMs": 1778433240402,
+                    "creationTimeUnixTimeInMs": 1778490906237,
+                    "modificationTimeUnixTimeInMs": 1778490906319,
                     "additionalProperties": {}
                 }
             ],
@@ -1044,8 +1044,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1778433240311,
-            "modificationTimeUnixTimeInMs": 1778433240402,
+            "creationTimeUnixTimeInMs": 1778490906237,
+            "modificationTimeUnixTimeInMs": 1778490906319,
             "additionalProperties": {}
         },
         {
@@ -1083,8 +1083,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1778433240311,
-            "modificationTimeUnixTimeInMs": 1778433240402,
+            "creationTimeUnixTimeInMs": 1778490906237,
+            "modificationTimeUnixTimeInMs": 1778490906319,
             "additionalProperties": {}
         },
         {
@@ -1267,8 +1267,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1778433240311,
-                    "modificationTimeUnixTimeInMs": 1778433240402,
+                    "creationTimeUnixTimeInMs": 1778490906237,
+                    "modificationTimeUnixTimeInMs": 1778490906319,
                     "additionalProperties": {}
                 },
                 {
@@ -1449,8 +1449,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1778433240311,
-                    "modificationTimeUnixTimeInMs": 1778433240402,
+                    "creationTimeUnixTimeInMs": 1778490906237,
+                    "modificationTimeUnixTimeInMs": 1778490906319,
                     "additionalProperties": {}
                 }
             ],
@@ -1475,8 +1475,124 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1778433240311,
-            "modificationTimeUnixTimeInMs": 1778433240402,
+            "creationTimeUnixTimeInMs": 1778490906237,
+            "modificationTimeUnixTimeInMs": 1778490906319,
+            "additionalProperties": {}
+        },
+        {
+            "parallelActions": [],
+            "identifier": "c2bba240-fcc7-43f5-b6e1-0343bd0447ed",
+            "originalStepIdentifier": "c2bba240-fcc7-43f5-b6e1-0343bd0447ed",
+            "isAutomatic": false,
+            "isSkippable": false,
+            "instanceName": "Instruction_1",
+            "name": "Instruction",
+            "integration": "Flow",
+            "description": "Instruct the analyst to do a specific action which can't be run from Siemplify, for example: Call the SOC manager, or go physically to his office to notify him regarding an issue",
+            "actionProvider": "Flow",
+            "actionName": "Instruction",
+            "type": 0,
+            "parameters": [
+                {
+                    "name": "AssignedUsers",
+                    "value": "[\"@Administrator\"]",
+                    "type": null,
+                    "isMandatory": false,
+                    "defaultValue": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "additionalProperties": {}
+                },
+                {
+                    "name": "DistinctDuplicateEntities",
+                    "value": "true",
+                    "type": null,
+                    "isMandatory": false,
+                    "defaultValue": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "additionalProperties": {}
+                },
+                {
+                    "name": "HasApprovalLink",
+                    "value": null,
+                    "type": null,
+                    "isMandatory": false,
+                    "defaultValue": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "additionalProperties": {}
+                },
+                {
+                    "name": "InstructionContent",
+                    "value": "Instruction inside block",
+                    "type": null,
+                    "isMandatory": false,
+                    "defaultValue": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "additionalProperties": {}
+                },
+                {
+                    "name": "MessageToAssignee",
+                    "value": null,
+                    "type": null,
+                    "isMandatory": false,
+                    "defaultValue": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "additionalProperties": {}
+                },
+                {
+                    "name": "PendingActionTimeout",
+                    "value": null,
+                    "type": null,
+                    "isMandatory": false,
+                    "defaultValue": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "additionalProperties": {}
+                },
+                {
+                    "name": "SelectedScopeName",
+                    "value": null,
+                    "type": null,
+                    "isMandatory": false,
+                    "defaultValue": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "additionalProperties": {}
+                },
+                {
+                    "name": "UseEntitiesLoopScope",
+                    "value": "true",
+                    "type": null,
+                    "isMandatory": false,
+                    "defaultValue": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "additionalProperties": {}
+                }
+            ],
+            "autoSkipOnFailure": false,
+            "isDebugMockData": false,
+            "debugData": null,
+            "parentStepContainerId": null,
+            "workflowIdentifier": "64c62fe4-d6fd-4673-9bbb-e43b521c1775",
+            "isTouchedByAi": false,
+            "startLoopStepIdentifier": null,
+            "logsExplorerUrl": null,
+            "id": 0,
+            "creationTimeUnixTimeInMs": 1778490906319,
+            "modificationTimeUnixTimeInMs": 1778490906319,
             "additionalProperties": {}
         },
         {
@@ -1514,8 +1630,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1778433240311,
-            "modificationTimeUnixTimeInMs": 1778433240402,
+            "creationTimeUnixTimeInMs": 1778490906237,
+            "modificationTimeUnixTimeInMs": 1778490906319,
             "additionalProperties": {}
         },
         {
@@ -1697,8 +1813,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1778433240402,
-            "modificationTimeUnixTimeInMs": 1778433240402,
+            "creationTimeUnixTimeInMs": 1778490906237,
+            "modificationTimeUnixTimeInMs": 1778490906319,
             "additionalProperties": {}
         },
         {
@@ -1736,8 +1852,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1778433240311,
-            "modificationTimeUnixTimeInMs": 1778433240402,
+            "creationTimeUnixTimeInMs": 1778490906237,
+            "modificationTimeUnixTimeInMs": 1778490906319,
             "additionalProperties": {}
         }
     ],
@@ -1780,6 +1896,12 @@
         },
         {
             "condition": "",
+            "fromStep": "e675724c-ae33-4538-b75e-3c9883565294",
+            "toStep": "c2bba240-fcc7-43f5-b6e1-0343bd0447ed",
+            "destinationActionStatus": 0
+        },
+        {
+            "condition": "",
             "fromStep": "3c757159-a444-465a-9b48-de3d10e3b206",
             "toStep": "e5f4da97-b129-498e-a8d5-9622dabe2e04",
             "destinationActionStatus": 0
@@ -1792,7 +1914,7 @@
         },
         {
             "condition": "",
-            "fromStep": "e675724c-ae33-4538-b75e-3c9883565294",
+            "fromStep": "c2bba240-fcc7-43f5-b6e1-0343bd0447ed",
             "toStep": "f84cd099-369b-4daa-969b-211bb9c8eb09",
             "destinationActionStatus": 0
         }
