@@ -34,7 +34,7 @@ An embedded workflow that can receive inputs and return an output.
 |Get feedname Data Table |Check, if provided values are found in the data table in Google SecOps. Note: this action only works with Chronicle API authentication. Backstory API is not supported.|GoogleChronicle|Is Value In Data Table|
 |Set Data Table name value |The action sets a key and value in a specific context (alert or case)|Tools|Set Context Value|
 |Critical Feed Name case tag |Add given tag to the case the current alert is grouped to|Siemplify|Case Tag|
-|Get Case Comments|This action will get all the data from a case and return a JSON result.  The result includes comments, entity information, insights, playbooks that ran, alert information and events.|Tools|Get Case Comments|
+|GitSync_Ping_1|Test connectivity to GitSync|GitSync|Ping|
 |Change Alert Priority_1|Automatically change the alert priority to the given input. Note: This action is compatible only with Siemplify version 5.6 and higher.|Siemplify|Change Alert Priority|
 |Change Priority (Critical flow)|Automatically change case priority to the given input|Siemplify|Change Priority|
 |Set Case SLA (Critical flow)|Set the SLA for a case. This action has the highest priority and it will override the existing SLA defined for the specific case.|Siemplify|Set Case SLA|
