@@ -33,4 +33,5 @@
 |play3||
 |play4||
 |play_block_book_1||
+|SecMon_Enrichment_and_Triage_Block|An embedded workflow that can receive inputs and return an output.|
 

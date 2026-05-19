@@ -25,3 +25,4 @@
 |play3|Default||
 |play4|Default||
 |play_block_book_1|Default||
+|SecMon_Enrichment_and_Triage_Block|Imported Playbooks|An embedded workflow that can receive inputs and return an output.|
