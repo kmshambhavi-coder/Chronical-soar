@@ -5,8 +5,8 @@
     "isEnabled": true,
     "isDebugMode": false,
     "name": "SecMon_Enrichment_and_Triage_Block",
-    "creator": "180976cf-b5d2-446c-8207-484327cc9877",
-    "modifiedBy": "180976cf-b5d2-446c-8207-484327cc9877",
+    "creator": "eadf5b7b-d686-46dc-a985-314ec89baee3",
+    "modifiedBy": "eadf5b7b-d686-46dc-a985-314ec89baee3",
     "priority": 2,
     "description": "An embedded workflow that can receive inputs and return an output.",
     "executionScope": 0,
@@ -16,16 +16,16 @@
     "categoryName": "Imported Playbooks",
     "categoryId": 2,
     "originalPlaybookIdentifier": "2a3ca9bf-b3a3-49ef-a100-9358d49ff98d",
-    "creationTimeUnixTimeInMs": 1779196198105,
-    "modificationTimeUnixTimeInMs": 1779199619749,
+    "creationTimeUnixTimeInMs": 1779275640840,
+    "modificationTimeUnixTimeInMs": 1779275640840,
     "trigger": {
         "id": 0,
-        "identifier": "06220e55-a518-45cd-b769-57e99a56091f",
+        "identifier": "8e4771db-4063-441f-87b5-461933b8eee5",
         "type": 11,
         "logicalOperator": 0,
         "conditions": [],
         "reactionLogicalOperator": 1,
-        "reactionConditions": [],
+        "reactionConditions": null,
         "executionMode": 0
     },
     "steps": [
@@ -122,15 +122,14 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "9a2ba2b3-1a1b-430e-8b7d-99736cdbda0b",
+                    "value": null,
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
                     "id": 0,
                     "creationTimeUnixTimeInMs": 0,
                     "modificationTimeUnixTimeInMs": 0,
-                    "additionalProperties": {},
-                    "InstanceDisplayName": "System Default Instance"
+                    "additionalProperties": {}
                 },
                 {
                     "name": "MessageToAssignee",
@@ -219,8 +218,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -318,7 +317,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "4c7cd67d-73f2-4029-befb-69b16dfff159",
+                            "value": "f9a32508-e571-47fd-800d-f5a18e6ac70f",
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -414,8 +413,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 },
                 {
@@ -511,7 +510,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "4c7cd67d-73f2-4029-befb-69b16dfff159",
+                            "value": "f9a32508-e571-47fd-800d-f5a18e6ac70f",
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -607,8 +606,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 },
                 {
@@ -704,7 +703,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "4c7cd67d-73f2-4029-befb-69b16dfff159",
+                            "value": "f9a32508-e571-47fd-800d-f5a18e6ac70f",
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -800,8 +799,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 }
             ],
@@ -893,8 +892,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -990,7 +989,7 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "4c7cd67d-73f2-4029-befb-69b16dfff159",
+                    "value": "f9a32508-e571-47fd-800d-f5a18e6ac70f",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -1087,8 +1086,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -1126,8 +1125,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -1223,15 +1222,14 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "9a2ba2b3-1a1b-430e-8b7d-99736cdbda0b",
+                    "value": null,
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
                     "id": 0,
                     "creationTimeUnixTimeInMs": 0,
                     "modificationTimeUnixTimeInMs": 0,
-                    "additionalProperties": {},
-                    "InstanceDisplayName": "System Default Instance"
+                    "additionalProperties": {}
                 },
                 {
                     "name": "MessageToAssignee",
@@ -1320,8 +1318,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -1417,15 +1415,14 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "9a2ba2b3-1a1b-430e-8b7d-99736cdbda0b",
+                    "value": null,
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
                     "id": 0,
                     "creationTimeUnixTimeInMs": 0,
                     "modificationTimeUnixTimeInMs": 0,
-                    "additionalProperties": {},
-                    "InstanceDisplayName": "System Default Instance"
+                    "additionalProperties": {}
                 },
                 {
                     "name": "MessageToAssignee",
@@ -1514,8 +1511,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -1613,7 +1610,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "9a2ba2b3-1a1b-430e-8b7d-99736cdbda0b",
+                            "value": null,
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -1709,8 +1706,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 },
                 {
@@ -1806,7 +1803,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "ca7740e1-1056-4361-a8df-d3201d792bc8",
+                            "value": null,
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -1861,7 +1858,7 @@
                         },
                         {
                             "name": "ScriptParametersEntityFields",
-                            "value": "{\"Query\":\"metadata.log_type = \\\"[Event.detection_detectionFields_log_type]\\\"\\r\\nAND metadata.ingestion_labels.key = \\\"feedname\\\"\\r\\nAND metadata.ingestion_labels.value = \\\"[Event.detection_detectionFields_feedname]\\\"\\r\\n\",\"Include Raw Log Data\":false,\"Time Frame\":\"Custom\",\"Start Time\":\"[Calculates time window from GCP Monitoring alert timestamp.ScriptResult]Z\",\"End Time\":\"\",\"Max Results To Return\":\"50\"}",
+                            "value": "{\"Query\":\"metadata.log_type = \\\"[Event.detection_detectionFields_log_type]\\\"\\r\\nAND metadata.ingestion_labels.key = \\\"feedname\\\"\\r\\nAND metadata.ingestion_labels.value = \\\"[Event.detection_detectionFields_feedname]\\\"\\r\\n\",\"Time Frame\":\"Custom\",\"Start Time\":\"[Calculates time window from GCP Monitoring alert timestamp.ScriptResult]Z\",\"End Time\":\"\",\"Max Results To Return\":\"50\"}",
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -1902,8 +1899,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 },
                 {
@@ -1999,7 +1996,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "ca7740e1-1056-4361-a8df-d3201d792bc8",
+                            "value": null,
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -2095,8 +2092,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 },
                 {
@@ -2192,7 +2189,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "9a2ba2b3-1a1b-430e-8b7d-99736cdbda0b",
+                            "value": null,
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -2288,8 +2285,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 }
             ],
@@ -2381,8 +2378,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -2478,7 +2475,7 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "4c7cd67d-73f2-4029-befb-69b16dfff159",
+                    "value": "f9a32508-e571-47fd-800d-f5a18e6ac70f",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -2575,22 +2572,22 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
             "parallelActions": [],
-            "identifier": "239372dd-c462-4575-8432-6db446629628",
-            "originalStepIdentifier": "239372dd-c462-4575-8432-6db446629628",
+            "identifier": "28361369-6429-4f13-8186-fc607cc556ff",
+            "originalStepIdentifier": "5f3b7094-eb96-4707-b466-3497030af821",
             "isAutomatic": true,
             "isSkippable": false,
-            "instanceName": "GitSync_Ping_1",
-            "name": "GitSync_Ping",
-            "integration": "GitSync",
-            "description": "Test connectivity to GitSync",
+            "instanceName": "Get Case Comments",
+            "name": "Tools_Get Case Comments",
+            "integration": "Tools",
+            "description": "This action will get all the data from a case and return a JSON result.  The result includes comments, entity information, insights, playbooks that ran, alert information and events.",
             "actionProvider": "Scripts",
-            "actionName": "GitSync_Ping",
+            "actionName": "Tools_Get Case Comments",
             "type": 0,
             "parameters": [
                 {
@@ -2605,8 +2602,19 @@
                     "additionalProperties": {}
                 },
                 {
-                    "name": "DistinctDuplicateEntities",
-                    "value": null,
+                    "name": "AsyncActionTimeout",
+                    "value": "3600",
+                    "type": null,
+                    "isMandatory": false,
+                    "defaultValue": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "additionalProperties": {}
+                },
+                {
+                    "name": "AsyncPollingInterval",
+                    "value": "300",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -2661,15 +2669,14 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "0c8551c4-1f56-4afc-8485-91a05b23ce75",
+                    "value": null,
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
                     "id": 0,
                     "creationTimeUnixTimeInMs": 0,
                     "modificationTimeUnixTimeInMs": 0,
-                    "additionalProperties": {},
-                    "InstanceDisplayName": "System Default Instance"
+                    "additionalProperties": {}
                 },
                 {
                     "name": "MessageToAssignee",
@@ -2706,7 +2713,7 @@
                 },
                 {
                     "name": "ScriptName",
-                    "value": "GitSync_Ping",
+                    "value": "Tools_Get Case Comments",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -2717,7 +2724,7 @@
                 },
                 {
                     "name": "ScriptParametersEntityFields",
-                    "value": "{}",
+                    "value": "{\"Case Id\":\"\",\"Fields to Return\":\"wallData\",\"Nested Keys Delimiter\":\".\",\"Case Comments Only\":true,\"Hide Disabled Users\":false}",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -2758,8 +2765,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619749,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -2857,7 +2864,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "4c7cd67d-73f2-4029-befb-69b16dfff159",
+                            "value": "f9a32508-e571-47fd-800d-f5a18e6ac70f",
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -2953,8 +2960,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 },
                 {
@@ -3050,7 +3057,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "4c7cd67d-73f2-4029-befb-69b16dfff159",
+                            "value": "f9a32508-e571-47fd-800d-f5a18e6ac70f",
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -3146,8 +3153,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 },
                 {
@@ -3243,7 +3250,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "4c7cd67d-73f2-4029-befb-69b16dfff159",
+                            "value": "f9a32508-e571-47fd-800d-f5a18e6ac70f",
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -3339,8 +3346,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 }
             ],
@@ -3432,8 +3439,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -3529,7 +3536,7 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "4c7cd67d-73f2-4029-befb-69b16dfff159",
+                    "value": "f9a32508-e571-47fd-800d-f5a18e6ac70f",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -3626,8 +3633,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -3723,7 +3730,7 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "4c7cd67d-73f2-4029-befb-69b16dfff159",
+                    "value": "f9a32508-e571-47fd-800d-f5a18e6ac70f",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -3820,8 +3827,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -3958,8 +3965,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -4096,8 +4103,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -4195,7 +4202,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "9a2ba2b3-1a1b-430e-8b7d-99736cdbda0b",
+                            "value": null,
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -4291,8 +4298,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 },
                 {
@@ -4388,7 +4395,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "ca7740e1-1056-4361-a8df-d3201d792bc8",
+                            "value": null,
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -4443,7 +4450,7 @@
                         },
                         {
                             "name": "ScriptParametersEntityFields",
-                            "value": "{\"Query\":\"metadata.log_type = \\\"[Event.detection_detectionFields_log_type]\\\"\\r\\nAND metadata.ingestion_labels.key = \\\"ingestion_source\\\"\\r\\nAND metadata.ingestion_labels.value = \\\"[Event.event_securityResult_detectionFields_Ingestion_Source]\\\"\\r\\n\\r\",\"Include Raw Log Data\":false,\"Time Frame\":\"Custom\",\"Start Time\":\"[Calculates time window from GCP Monitoring alert timestamp.ScriptResult]Z\",\"End Time\":\"\",\"Max Results To Return\":\"50\"}",
+                            "value": "{\"Query\":\"metadata.log_type = \\\"[Event.detection_detectionFields_log_type]\\\"\\r\\nAND metadata.ingestion_labels.key = \\\"ingestion_source\\\"\\r\\nAND metadata.ingestion_labels.value = \\\"[Event.event_securityResult_detectionFields_Ingestion_Source]\\\"\\r\\n\\r\",\"Time Frame\":\"Custom\",\"Start Time\":\"[Calculates time window from GCP Monitoring alert timestamp.ScriptResult]Z\",\"End Time\":\"\",\"Max Results To Return\":\"50\"}",
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -4484,8 +4491,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 },
                 {
@@ -4581,7 +4588,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "ca7740e1-1056-4361-a8df-d3201d792bc8",
+                            "value": null,
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -4677,8 +4684,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 },
                 {
@@ -4774,7 +4781,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "9a2ba2b3-1a1b-430e-8b7d-99736cdbda0b",
+                            "value": null,
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -4870,8 +4877,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 }
             ],
@@ -4963,8 +4970,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -5002,8 +5009,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -5101,7 +5108,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "9a2ba2b3-1a1b-430e-8b7d-99736cdbda0b",
+                            "value": null,
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -5197,8 +5204,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 },
                 {
@@ -5294,7 +5301,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "ca7740e1-1056-4361-a8df-d3201d792bc8",
+                            "value": null,
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -5349,7 +5356,7 @@
                         },
                         {
                             "name": "ScriptParametersEntityFields",
-                            "value": "{\"Query\":\"metadata.log_type = \\\"[Event.detection_detectionFields_log_type]\\\"\",\"Include Raw Log Data\":false,\"Time Frame\":\"Custom\",\"Start Time\":\"[Calculates time window from GCP Monitoring alert timestamp.ScriptResult]Z\",\"End Time\":\"\",\"Max Results To Return\":\"50\"}",
+                            "value": "{\"Query\":\"metadata.log_type = \\\"[Event.detection_detectionFields_log_type]\\\"\",\"Time Frame\":\"Custom\",\"Start Time\":\"[Calculates time window from GCP Monitoring alert timestamp.ScriptResult]Z\",\"End Time\":\"\",\"Max Results To Return\":\"50\"}",
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -5390,8 +5397,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 },
                 {
@@ -5487,7 +5494,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "ca7740e1-1056-4361-a8df-d3201d792bc8",
+                            "value": null,
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -5583,8 +5590,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 },
                 {
@@ -5680,7 +5687,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "9a2ba2b3-1a1b-430e-8b7d-99736cdbda0b",
+                            "value": null,
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -5776,8 +5783,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 }
             ],
@@ -5869,8 +5876,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -5968,7 +5975,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "9a2ba2b3-1a1b-430e-8b7d-99736cdbda0b",
+                            "value": null,
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -6064,8 +6071,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 },
                 {
@@ -6161,7 +6168,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "ca7740e1-1056-4361-a8df-d3201d792bc8",
+                            "value": null,
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -6216,7 +6223,7 @@
                         },
                         {
                             "name": "ScriptParametersEntityFields",
-                            "value": "{\"Query\":\"metadata.log_type = \\\"[Event.detection_detectionFields_log_type]\\\"\\r\\nAND metadata.ingestion_labels.key = \\\"ingestion_source\\\"\\r\\nAND metadata.ingestion_labels.value = \\\"[Event.event_securityResult_detectionFields_Ingestion_Source]\\\"\\r\",\"Include Raw Log Data\":false,\"Time Frame\":\"Custom\",\"Start Time\":\"[Calculates time window from GCP Monitoring alert timestamp.ScriptResult]Z\",\"End Time\":\"\",\"Max Results To Return\":\"50\"}",
+                            "value": "{\"Query\":\"metadata.log_type = \\\"[Event.detection_detectionFields_log_type]\\\"\\r\\nAND metadata.ingestion_labels.key = \\\"ingestion_source\\\"\\r\\nAND metadata.ingestion_labels.value = \\\"[Event.event_securityResult_detectionFields_Ingestion_Source]\\\"\\r\",\"Time Frame\":\"Custom\",\"Start Time\":\"[Calculates time window from GCP Monitoring alert timestamp.ScriptResult]Z\",\"End Time\":\"\",\"Max Results To Return\":\"50\"}",
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -6257,8 +6264,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 },
                 {
@@ -6354,7 +6361,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "ca7740e1-1056-4361-a8df-d3201d792bc8",
+                            "value": null,
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -6450,8 +6457,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 },
                 {
@@ -6547,7 +6554,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "9a2ba2b3-1a1b-430e-8b7d-99736cdbda0b",
+                            "value": null,
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -6643,8 +6650,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 }
             ],
@@ -6736,8 +6743,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -6833,15 +6840,14 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "9a2ba2b3-1a1b-430e-8b7d-99736cdbda0b",
+                    "value": null,
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
                     "id": 0,
                     "creationTimeUnixTimeInMs": 0,
                     "modificationTimeUnixTimeInMs": 0,
-                    "additionalProperties": {},
-                    "InstanceDisplayName": "System Default Instance"
+                    "additionalProperties": {}
                 },
                 {
                     "name": "MessageToAssignee",
@@ -6930,8 +6936,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -7068,8 +7074,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -7206,8 +7212,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -7303,7 +7309,7 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "4c7cd67d-73f2-4029-befb-69b16dfff159",
+                    "value": "f9a32508-e571-47fd-800d-f5a18e6ac70f",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -7359,7 +7365,7 @@
                 },
                 {
                     "name": "ScriptParametersEntityFields",
-                    "value": "{\"Reason\":\"Maintenance\",\"Root Cause\":\"True Negative - Normal Operation\",\"Comment\":\"The asset is now running. \",\"Custom Fields\":\"\",\"Append Custom Field Values\":\"false\"}",
+                    "value": "{\"Reason\":\"Maintenance\",\"Root Cause\":\"True Negative - Normal Operation\",\"Comment\":\"The asset is now running. \"}",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -7400,8 +7406,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -7497,7 +7503,7 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "4c7cd67d-73f2-4029-befb-69b16dfff159",
+                    "value": "f9a32508-e571-47fd-800d-f5a18e6ac70f",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -7594,8 +7600,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -7691,15 +7697,14 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "9a2ba2b3-1a1b-430e-8b7d-99736cdbda0b",
+                    "value": null,
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
                     "id": 0,
                     "creationTimeUnixTimeInMs": 0,
                     "modificationTimeUnixTimeInMs": 0,
-                    "additionalProperties": {},
-                    "InstanceDisplayName": "System Default Instance"
+                    "additionalProperties": {}
                 },
                 {
                     "name": "MessageToAssignee",
@@ -7788,8 +7793,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -7827,8 +7832,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -7866,8 +7871,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -8004,8 +8009,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -8101,7 +8106,7 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "4c7cd67d-73f2-4029-befb-69b16dfff159",
+                    "value": "f9a32508-e571-47fd-800d-f5a18e6ac70f",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -8198,8 +8203,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -8295,15 +8300,14 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "9a2ba2b3-1a1b-430e-8b7d-99736cdbda0b",
+                    "value": null,
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
                     "id": 0,
                     "creationTimeUnixTimeInMs": 0,
                     "modificationTimeUnixTimeInMs": 0,
-                    "additionalProperties": {},
-                    "InstanceDisplayName": "System Default Instance"
+                    "additionalProperties": {}
                 },
                 {
                     "name": "MessageToAssignee",
@@ -8392,8 +8396,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -8491,7 +8495,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "4c7cd67d-73f2-4029-befb-69b16dfff159",
+                            "value": "f9a32508-e571-47fd-800d-f5a18e6ac70f",
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -8587,8 +8591,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 },
                 {
@@ -8684,7 +8688,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "4c7cd67d-73f2-4029-befb-69b16dfff159",
+                            "value": "f9a32508-e571-47fd-800d-f5a18e6ac70f",
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -8780,8 +8784,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 },
                 {
@@ -8877,7 +8881,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "4c7cd67d-73f2-4029-befb-69b16dfff159",
+                            "value": "f9a32508-e571-47fd-800d-f5a18e6ac70f",
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -8973,8 +8977,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 },
                 {
@@ -9070,7 +9074,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "4c7cd67d-73f2-4029-befb-69b16dfff159",
+                            "value": "f9a32508-e571-47fd-800d-f5a18e6ac70f",
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -9166,8 +9170,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 }
             ],
@@ -9259,8 +9263,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -9298,8 +9302,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -9436,8 +9440,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -9533,15 +9537,14 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "9a2ba2b3-1a1b-430e-8b7d-99736cdbda0b",
+                    "value": null,
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
                     "id": 0,
                     "creationTimeUnixTimeInMs": 0,
                     "modificationTimeUnixTimeInMs": 0,
-                    "additionalProperties": {},
-                    "InstanceDisplayName": "System Default Instance"
+                    "additionalProperties": {}
                 },
                 {
                     "name": "MessageToAssignee",
@@ -9630,8 +9633,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -9669,8 +9672,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -9766,7 +9769,7 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "a022edc9-1912-4e47-a9cc-73941d428afb",
+                    "value": "a5fb568e-3ce4-487a-ac43-70f2ced7e7d9",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -9863,8 +9866,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -10001,8 +10004,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -10139,8 +10142,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         },
         {
@@ -10238,7 +10241,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "4c7cd67d-73f2-4029-befb-69b16dfff159",
+                            "value": "f9a32508-e571-47fd-800d-f5a18e6ac70f",
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -10334,8 +10337,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 },
                 {
@@ -10431,7 +10434,7 @@
                         },
                         {
                             "name": "IntegrationInstance",
-                            "value": "cb6473e4-ec93-4103-a4e1-06c3bbd88238",
+                            "value": "9a2febbe-fb28-4311-afa8-70d55c005c0e",
                             "type": null,
                             "isMandatory": false,
                             "defaultValue": null,
@@ -10527,8 +10530,8 @@
                     "startLoopStepIdentifier": null,
                     "logsExplorerUrl": null,
                     "id": 0,
-                    "creationTimeUnixTimeInMs": 1779199619537,
-                    "modificationTimeUnixTimeInMs": 1779199619749,
+                    "creationTimeUnixTimeInMs": 1779275640840,
+                    "modificationTimeUnixTimeInMs": 1779275640840,
                     "additionalProperties": {}
                 }
             ],
@@ -10620,8 +10623,8 @@
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1779199619537,
-            "modificationTimeUnixTimeInMs": 1779199619749,
+            "creationTimeUnixTimeInMs": 1779275640840,
+            "modificationTimeUnixTimeInMs": 1779275640840,
             "additionalProperties": {}
         }
     ],
@@ -10675,9 +10678,9 @@
             "destinationActionStatus": 0
         },
         {
-            "condition": "5",
-            "fromStep": "eff2e3fa-b4e1-4ee8-afcd-79dc26dd1c90",
-            "toStep": "239372dd-c462-4575-8432-6db446629628",
+            "condition": "1",
+            "fromStep": "79b09804-e83a-449b-8c9f-c6287c7fbb6f",
+            "toStep": "28361369-6429-4f13-8186-fc607cc556ff",
             "destinationActionStatus": 0
         },
         {
@@ -10879,8 +10882,8 @@
             "destinationActionStatus": 0
         },
         {
-            "condition": "",
-            "fromStep": "239372dd-c462-4575-8432-6db446629628",
+            "condition": "5",
+            "fromStep": "eff2e3fa-b4e1-4ee8-afcd-79dc26dd1c90",
             "toStep": "b3bddc1d-7101-478b-a372-f6daf222ddfe",
             "destinationActionStatus": 0
         },
@@ -10891,8 +10894,8 @@
             "destinationActionStatus": 0
         },
         {
-            "condition": "1",
-            "fromStep": "79b09804-e83a-449b-8c9f-c6287c7fbb6f",
+            "condition": "",
+            "fromStep": "28361369-6429-4f13-8186-fc607cc556ff",
             "toStep": "b844e6c8-a010-4fd3-9aec-0d6fcee26eef",
             "destinationActionStatus": 0
         },
