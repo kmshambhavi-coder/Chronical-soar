@@ -19,6 +19,7 @@
 |GitSyncPlaybook|pull Data|
 |GitSync_MultiStep_Repro||
 |GitSync_Parallel_Repro||
+|GitSync_QA_test||
 |GitSync_block_pb|An embedded workflow that can receive inputs and return an output.|
 |MyPlay||
 |New Playbook||
