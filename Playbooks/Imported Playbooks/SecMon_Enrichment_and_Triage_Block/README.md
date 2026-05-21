@@ -25,7 +25,7 @@ An embedded workflow that can receive inputs and return an output.
 |Common asset_type_value|The action sets a key and value in a specific context (alert or case)|Tools|Set Context Value|
 |Change Alert Priority_2|Automatically change the alert priority to the given input. Note: This action is compatible only with Siemplify version 5.6 and higher.|Siemplify|Change Alert Priority|
 |Change Priority (Non-critical and Non-PCI)|Automatically change case priority to the given input|Siemplify|Change Priority|
-|Set Case SLA (Non-critical and Non-PCI)|Set the SLA for a case. This action has the highest priority and it will override the existing SLA defined for the specific case.|Siemplify|Set Case SLA|
+|Set Case SLA (Non-critical and Non-PCI)_1|Set the SLA for a case. This action has the highest priority and it will override the existing SLA defined for the specific case.|Siemplify|Set Case SLA|
 |Critical Connector Case tag |Add given tag to the case the current alert is grouped to|Siemplify|Case Tag|
 |Common asset_type_value   |The action sets a key and value in a specific context (alert or case)|Tools|Set Context Value|
 |UDM Query - Timestamp|Returns the current date and time |Tools|Get Current Time|
